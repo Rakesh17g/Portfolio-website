@@ -2,7 +2,7 @@
 
 ![Portfolio Screenshot](portfolio.png)
 
-> 🌐 Live Site: [https://rakesh-portfolio.vercel.app](v0-rakesh-dev-portfolio-website-roan.vercel.app)
+> 🌐 Live Site: [v0-rakesh-dev-portfolio-website-roan.vercel.app]
 
 ---
 
@@ -28,9 +28,9 @@ I’m Rakesh G, an aspiring Full Stack Developer and ECE student passionate abou
 
 ## 🔗 Links
 
-- 🔴 [Live Website](https://rakesh-portfolio.vercel.app)
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 📧 rakesh@example.com
+- 🔴 [Live Website](https://v0-rakesh-dev-portfolio-website-roan.vercel.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rakesh-g-261666350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- 📧 rakesh1719@gmail.com
 
 ---
 
