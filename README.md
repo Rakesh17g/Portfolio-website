@@ -1,5 +1,5 @@
 # Rakesh G - Portfolio Website
-![Portfolio Screenshot](Screenshots/portfolio.PNG)
+![Portfolio Screenshot](portfolio.png)
 
 > 🌐 Live Site:[https://rakesh-portfolio.vercel.app](https://v0-rakesh-dev-portfolio-website-roan.vercel.app/)
 
@@ -21,7 +21,7 @@ I’m Rakesh G, an aspiring Full Stack Developer and ECE student passionate abou
 
 ## 📸 Screenshot
 
-![Portfolio Screenshot](Screenshots/portfolio.PNG)
+![Portfolio Screenshot](portfolio.png)
 
 ---
 
