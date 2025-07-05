@@ -19,10 +19,6 @@ I’m Rakesh G, an aspiring Full Stack Developer and ECE student passionate abou
 
 ---
 
-## 📸 Screenshot
-
-![Portfolio Screenshot](portfolio.png)
-
 ---
 
 ## 🔗 Links
