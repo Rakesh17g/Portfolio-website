@@ -1,35 +1,30 @@
-# Rakesh G - Portfolio Website
-![Portfolio Screenshot](portfolio.png)
+# Portfolio
 
-> 🌐 Live Site:[https://rakesh-portfolio.vercel.app](https://v0-rakesh-dev-portfolio-website-roan.vercel.app/)
+*Automatically synced with your [v0.dev](https://v0.dev) deployments*
 
----
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/m-giovani/v0-portfolio)
+[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/ECIQgdfkTNp)
 
-## 👨‍💻 About Me
+## Overview
 
-I’m Rakesh G, an aspiring Full Stack Developer and ECE student passionate about building web apps, solving real-world problems, and learning data science.
+This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
+Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
 
----
+## Deployment
 
-## ⚙️ Tech Stack
+Your project is live at:
 
-- HTML, CSS, JavaScript
-- Git & GitHub
-- Vercel (Deployment)
+**[https://vercel.com/m-giovani/v0-portfolio](https://vercel.com/m-giovani/v0-portfolio)**
 
----
+## Build your app
 
----
+Continue building your app on:
 
-## 🔗 Links
+**[https://v0.dev/chat/projects/ECIQgdfkTNp](https://v0.dev/chat/projects/ECIQgdfkTNp)**
 
-- 🔴 [Live Website](https://v0-rakesh-dev-portfolio-website-roan.vercel.app/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/rakesh-g-261666350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-- 📧 rakesh1719@gmail.com
+## How It Works
 
----
-
-## 📝 License
-
-Open-source under MIT License.
-
+1. Create and modify your project using [v0.dev](https://v0.dev)
+2. Deploy your chats from the v0 interface
+3. Changes are automatically pushed to this repository
+4. Vercel deploys the latest version from this repository
